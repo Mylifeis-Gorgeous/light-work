@@ -35,3 +35,9 @@ img{
     overflow: hidden;
 
 }
+@media (max-width: 768px) {
+    .container-fluid {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
