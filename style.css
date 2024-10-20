@@ -43,6 +43,11 @@ img{
 .box-2{
     width: 100%;
     overflow: hidden;
-    background-color: red;
     /* object-fit: fill; */
+}
+@media (max-width: 768px) {
+    .container-fluid {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
