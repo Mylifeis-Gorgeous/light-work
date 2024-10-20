@@ -36,7 +36,11 @@ img{
 
 }
 @media (max-width: 768px) {
-    .container-fluid {
+    .box-1a {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .box-1b {
         margin-left: 10%;
         margin-right: 10%;
     }
